@@ -11,3 +11,13 @@ django super user
 username : oracle
 email : satyasaikumar5@gmail.com
 password : Getmein123$
+
+git local
+username : sanisetty27
+password : Getmein123$
+
+
+python any where username
+username : oracle
+email : satyasaikumar5@gmail.com
+password : Getmein123$
