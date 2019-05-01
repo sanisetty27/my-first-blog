@@ -1,0 +1,13 @@
+git online accounet details
+username = sanisetty27
+passowrd = Getmein123456789$
+
+pythonanywhere.com
+username = sanisetty27
+password = Getmein123456789$
+API token also created 
+
+django super user
+username : oracle
+email : satyasaikumar5@gmail.com
+password : Getmein123$
